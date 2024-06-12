@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tim3 Tr4veler</title>
-    <link>https://tim3tr4veler.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Tim3 Tr4veler</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Jun 2024 09:54:06 +0400</lastBuildDate>
-    <atom:link href="https://tim3tr4veler.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>whoami</title>
-      <link>https://tim3tr4veler.xyz/posts/whoami/</link>
+      <link>http://localhost:1313/posts/whoami/</link>
       <pubDate>Sat, 08 Jun 2024 09:54:06 +0400</pubDate>
-      <guid>https://tim3tr4veler.xyz/posts/whoami/</guid>
+      <guid>http://localhost:1313/posts/whoami/</guid>
       <description> public static void main(String[] args) { System.out.println(&amp;#34;tim3 tr4veler&amp;#34;); // Hello World! } </description>
     </item>
   </channel>
